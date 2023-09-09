@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+#title-1{
+    width: 1000px;
+    height: 60px;
+    background-color: rgb(161, 252, 125);
+}
+#di-1{
+    color:  rgb(148, 250, 108);
+}
+.circel{
+    width: 200px;
+    height: 20px;
+    background-color: rgb(98, 241, 117);
+    border-radius: 20%;
+    text-align: center;
+    
+}
+#title-2{
+    width: 1000px;
+    background-color: rgb(175, 100, 100);
+    border: 10px solid;
+ 
+    background-image: url(./fire_spark__7__by_duzulek_dbc2fh6-pre.jpg);
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.cla1{
+    color: rgb(161, 252, 125);
+}
+.cla2{
+    color: aliceblue;
+    width: 50%;
+}
+#title-3{
+    width: 1000px;
+    height: 400px;
+    border: 10px solid;
+    background-color: antiquewhite;
+
+}
